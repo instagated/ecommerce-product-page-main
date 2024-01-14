@@ -16,7 +16,8 @@ export default {
 			},
 			fontFamily: {
 				"kumbn-sans": "Kumbh Sans"
-			}
+			},
+			
 		},
 	},
 	plugins: [],
